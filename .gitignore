@@ -1,0 +1,8 @@
+/target
+/target
+*.classpath
+.idea
+.clover
+/*.project
+/.settings/*.prefs
+/*.iml
